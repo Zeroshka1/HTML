@@ -1,0 +1,44 @@
+.LOGO
+{
+    width: 350px;
+    height: 350px;
+    margin: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+*{
+    background-color: #CE3DFE;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.Logo_name
+{
+    position: absolute;
+    width: 341px;
+    height: 35px;
+    left: 30px;
+    top: 391px;
+
+    font-family: "Itim Cyrillic";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 22px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.408px;
+
+    color: #ff0000;
+}
